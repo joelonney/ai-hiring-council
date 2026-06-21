@@ -1,5 +1,7 @@
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ai-hiring-council.streamlit.app/)
 # AI Hiring Council
+
+### 🚀 Live Demo
+https://ai-hiring-council.streamlit.app/
 
 AI-powered hiring decision support system that simulates a hiring panel using multiple specialized AI agents.
 
